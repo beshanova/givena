@@ -1,0 +1,39 @@
+.auth-menu{
+	padding:10px 0 25px 20%; 
+	border-bottom:1px solid #80B61B;
+	margin-bottom:10px;
+}
+.auth-menu a{
+	float: left;
+	background: #e5f5bb;
+	margin: 0 2px 0 0;
+	padding: 2px 0;
+	width: 200px;
+	text-align: center;
+	text-decoration: none;
+	color: #0a5100;
+	font-size: 13px;
+	font-weight: bold;
+}
+.auth-menu a.act, .auth-menu a:hover{
+	color: #010c00!important;
+	background: #c7e28b;
+}
+tr.pwd-00{
+	display:none;
+}
+
+p.success{
+	text-align:left;
+	margin:0 0 10px 0;
+	color:#000;
+}
+p.error{
+	color:#ff0000;
+	text-align:left;
+	margin:0 0 10px 0;
+}
+
+p.auth-order-item{
+	display:none;
+}

@@ -1,0 +1,1 @@
+<p><?= nl2br($const['module_consttext_text']) ?></p>
