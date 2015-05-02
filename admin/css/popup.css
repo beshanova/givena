@@ -1,0 +1,25 @@
+.admin-popup-background{
+	position:absolute;
+	display:none;
+	z-index:1000;
+	left:0;
+	top:0;
+	background-color:#A8A8A8;
+	width: 100% !important;
+	/*height: 100% !important;*/
+}
+.admin-popup-window{
+	position:absolute;
+	display:none;
+	left:50%;
+	z-index:10001;
+	min-width:500px;
+	margin-left:-200px;
+	/*min-height:200px;*/
+	background:#ffffff;
+	/*max-width:750px;*/
+	font-family: arial,sans-serif !important;
+	font-size: 12px !important;
+}
+.admin-popup-checkbox-yes{color:#0000ff;}
+.admin-popup-checkbox-no{color:#ff0000;}

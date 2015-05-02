@@ -1,0 +1,10 @@
+.admin-popup-window{
+max-width:750px;
+}
+.admin-popup-window{margin-top:100px;}
+.admin-popup-window-form input[type="text"]{min-width:100px;}
+.admin-popup-window-form select{min-width:100px;}
+.admin-popup-window-form textarea {width:97%;height:80px;}
+.pop-name-td {vertical-align:top;}
+.admin-popup-window-form input[id="f-f_date"]{min-width:100px;}
+.admin-popup-window-form input[id="f-f_datetime"]{min-width:100px;}

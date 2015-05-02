@@ -1,0 +1,9 @@
+Options -Indexes
+RewriteEngine on
+Options +FollowSymlinks
+RewriteBase /admin/
+
+RewriteRule widget.php widget.php?%{QUERY_STRING} [L]
+
+RewriteCond $1 !(js|css|img|utils|admin)
+RewriteRule (.*) index.php?%{QUERY_STRING} [L]

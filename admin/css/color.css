@@ -1,0 +1,49 @@
+#admin-div-panel-static, .selectbox .trigger , .selectbox .trigger:hover,
+ .admin-div-icon-action-pub:hover, .browse:hover,
+ .admin-div-icon-action:hover, 
+ .admin-popup-window-button-save:hover, .admin-popup-window-button-close:hover, .admin-popup-window-button-close-no-action:hover,
+ .admin-div-block-add-block:hover, .admin-popup-window-button-save, 
+ .admin-popup-window-button-close, .admin-popup-window-button-close-no-action, .title-pop, .root li, .root-item li,
+ .browse, .admin-div-block-add-block, .admin-div-icon-action, 
+ .admin-div-icon-action-pub, .admin-div-block-add-block:hover, .admin-div-icon-action-add-block:hover,
+.admin-div-icon-action-add-block, .root li:hover, .root-item li:hover, .admin-panel-param, .admin-panel-param:hover
+ {
+background-color: #980b17;
+}
+.submenu-item .root li {background-color: #980b17 !importan;}
+.submenu-item .root-item li {background-color: #980b17 !importan;}
+div.admin-div-block-border{
+	border:1px dotted #980b17;
+}
+
+.root li {
+	border-top: 1px solid #81101E;
+}
+div.admin-div-block-border:hover{
+	border:1px solid #980b17;
+}
+div.admin-div-icon-action {
+	border-top: 1px solid #980b17;
+	border-bottom: 1px solid #980b17;
+}
+.admin-div-block-add-block {
+	border-top: 1px solid #81101E;
+}
+.admin-div-icon-action-pub {
+	border-top: 1px solid #980b17;
+	border-bottom: 1px solid #980b17;
+}
+.ui-tabs-anchor {
+	color: #980b17;
+}
+#admin-div-block-add-type, #admin-div-panel-static, .root, .root-item, .admin-div-icon-action-pub {
+	border-bottom: 1px solid #9B091B;
+}
+.root, .root-item {background-color: #980b17;}
+.admin-div-icon-action-add-block {border:1px solid #980b17;}
+.admin-popup-window-button-save {border:1px solid #980b17;}
+.admin-popup-window-button-close, .admin-popup-window-button-close-no-action {border:1px solid #980b17;}
+div.admin-div-block-border-no-active{
+	background:#FFE8E8;
+}
+
